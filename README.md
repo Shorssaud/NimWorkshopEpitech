@@ -36,8 +36,18 @@ Now, using all of the past procedures, we want to have a procedure which:
 
 # Part 2
 
-Amazing! You've managed to create Conway's game of life in Nim! However you may notice that the terminal is rather ugly and limiting, so lets make this visual using (lib here)
+Amazing! You've managed to create Conway's game of life in Nim! However you may notice that the terminal is rather ugly and limiting, so lets make this visual using nimgl
 
 ## Exercise 1:  ##
-In this exercise, you will add obstacles to the game board. Obstacles will be represented by the character #. Copy the following code into game.nim:
-https://github.com/nim-lang/nimble#installation
+Make sure you can use nimble and install nimgl
+https://nim-lang.org/install_unix.html#installation-using-choosenim
+
+Using nimble add the nimgl to your packages
+```
+nimble install nimgl
+```
+
+## Exercise 2: ##
+
+Start doing your own research and make a visual for this game!
+
